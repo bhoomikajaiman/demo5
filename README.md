@@ -1,2 +1,2 @@
 # TomcatMavenApp
-Sample Tomcat Maven App for bhoomika
+Sample Tomcat Maven App for bhoomika.
