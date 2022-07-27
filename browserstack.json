@@ -78,7 +78,7 @@
         }
     ],
     "run_settings": {
-        "cypress_config_file": "/path/to/<cypress config file>.json",
+        "cypress_config_file": "/path/to/C:\Users\BhoomikaJaiman\Desktop\TomcatMavenApp-master\cypress.config.json",
         "project_name": "project-name",
         "build_name": "build-name",
         "exclude": [],
