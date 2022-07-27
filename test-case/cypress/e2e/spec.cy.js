@@ -1,5 +1,6 @@
-describe('My First Test', () => {
-   it('Does not do much!', () => {
-     expect(true).to.equal(true)
-   })
- })
+describe('My First Cypress Test', function() {
+  it('Visits the login page', function() {
+  //Visit the Demo QA Website
+  cy.visit("http://localhost:8080/TomcatMavenApp/");
+})
+})
