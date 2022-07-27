@@ -78,11 +78,11 @@
         }
     ],
     "run_settings": {
-        "cypress_config_file": "/path/to/C:\Users\BhoomikaJaiman\Desktop\TomcatMavenApp-master\cypress.config.json",
-        "project_name": "project-name",
-        "build_name": "build-name",
+        "cypress_config_file": "./cypress.json",
+        "project_name": "TomcatMavenApp",
+        "build_name": "demo5",
         "exclude": [],
-        "parallels": "Number of parallels you want to run",
+        "parallels": 10,
         "npm_dependencies": {},
         "package_config_options": {},
         "headless": true
